@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Sitemap"
+title: "Welcome to Contact!"
 permalink: /sitemap/
 author_profile: true
 ---
