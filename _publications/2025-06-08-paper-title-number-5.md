@@ -2,7 +2,6 @@
 title: "Mimicking Bats' Echolocation: A Biomimetic Approach for Indoor Human Target Detection"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2025-11-21
 venue: 'IET Interntional Radar Conference 2025'
