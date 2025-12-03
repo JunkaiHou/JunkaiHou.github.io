@@ -27,9 +27,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "BUPT 2026 Ph.D"
   location         : "Beijing, China"
-  employer         : "Beijing University of Posts and   
-  Telecommunications"
-  uri              : # URL
+  employer         : "Beijing University of Posts and Telecommunications"
+  uri              : # "WeChat: Junkai_Hou"
   email            : "houjunkai@bupt.edu.cn" 
 
   # Academic websites
@@ -76,6 +75,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  WeChat           : "Junkai_Hou"  # WeChat ID
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
