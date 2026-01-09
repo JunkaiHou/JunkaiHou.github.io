@@ -44,7 +44,7 @@ Education Background / 教育背景
 Research Field / 研究方向
 ======
 
-1. 计算机视觉，参考多目标跟踪  CV (Computer Vision)，RMOT (Referring Multi-Object Tracking)
+1. 计算机视觉，参考多目标跟踪，图像美学评估  CV (Computer Vision)，RMOT (Referring Multi-Object Tracking), IAA(Image Aesthetic Assessment)
 2. 雷达技术，杂波抑制，室内人体目标检测  Radar Technologies, Radar Clutter Suppression, Indoor Human Target Detection
 
 ---
